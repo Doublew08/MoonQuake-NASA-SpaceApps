@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 875, y: 732}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -46,7 +46,7 @@ MonoBehaviour:
     y: 0
     width: 1366
     height: 685
-  m_MinSize: {x: 875, y: 732}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -115,7 +115,7 @@ MonoBehaviour:
   m_MinSize: {x: 678, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 205
+  controlID: 114
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_MinSize: {x: 402, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 99
+  controlID: 119
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -165,7 +165,7 @@ MonoBehaviour:
   m_MinSize: {x: 402, y: 221}
   m_MaxSize: {x: 8002, y: 4021}
   vertical: 0
-  controlID: 100
+  controlID: 120
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -220,7 +220,7 @@ MonoBehaviour:
   - {fileID: 18}
   - {fileID: 12}
   m_Selected: 0
-  m_LastSelected: 3
+  m_LastSelected: 1
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -888,10 +888,10 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: bcc4fdff1ceefdff1cf7fdff0802fefffa1afeffa651feffac5ffeff1e79ffff3a79ffff027dffff327dffff3ad8ffff52d8ffff68fbffff92470000c4f002002a5c050068880500ce9d050088c90500060d06005c4d06001890060056bc0600bcd1060076fd0600f4400700
+      scrollPos: {x: 0, y: 1714}
+      m_SelectedIDs: dc7f0200
+      m_LastClickedID: 163804
+      m_ExpandedIDs: de2cfffffa2cffffc830fffff230ffff6afbffffea470000f4480000da6c0200a07002007e86020078940200
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -951,9 +951,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -17.481003, y: 18.046215, z: -5.555109}
+    m_Target: {x: -26.136189, y: 11.302479, z: -14.036818}
     speed: 2
-    m_Value: {x: -17.481003, y: 18.046215, z: -5.555109}
+    m_Value: {x: -26.136189, y: 11.302479, z: -14.036818}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -999,13 +999,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.17857252, y: 0.7389817, z: -0.2152996, w: -0.6129166}
+    m_Target: {x: -0.0012089506, y: 0.941981, z: 0.0033931537, w: 0.3356492}
     speed: 2
-    m_Value: {x: -0.17921737, y: 0.7371387, z: -0.21476263, w: -0.61512995}
+    m_Value: {x: -0.0021504657, y: 0.9454382, z: 0.0062419972, w: 0.32573482}
   m_Size:
-    m_Target: 1.5759404
+    m_Target: 4.9589467
     speed: 2
-    m_Value: -1.5759404
+    m_Value: 4.6589465
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1091,7 +1091,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 1
+    m_EnableMouseInput: 0
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -1187,32 +1187,32 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/FPS/Scenes
+    - Assets/Sci-fi_design_Kit/Textures/Common_textures/Materials
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/FPS/Scenes
+  - Assets/Sci-fi_design_Kit/Textures/Common_textures/Materials
   m_LastFoldersGridSize: -1
   m_LastProjectPath: E:\Game developing\Nasa Space Apps\Solution-SpaceQuest-NasaSpaceApps2021\Space
     Quest 2021
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: c24c0000
-    m_LastClickedID: 19650
-    m_ExpandedIDs: 00000000c24b0000c44b0000c64b0000c84b0000ca4b0000cc4b0000d04b0000d24b0000d44b0000d64b0000d84b0000c24c0000e44c0000ea4c000000ca9a3b
+    scrollPos: {x: 0, y: 502}
+    m_SelectedIDs: 32d90200
+    m_LastClickedID: 186674
+    m_ExpandedIDs: 00000000ce540000d0540000d2540000d4540000d6540000d8540000da540000dc540000de540000e0540000e65400004855000060550000605a000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Demo_scene_1.7
-      m_OriginalName: Demo_scene_1.7
+      m_Name: Character Controllers
+      m_OriginalName: Character Controllers
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 20140
+      m_UserData: 21818
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
       m_OriginalEventType: 0
@@ -1229,7 +1229,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000c24b0000c44b0000c64b0000c84b0000ca4b0000cc4b0000ce4b0000d04b0000d24b0000d44b0000d64b0000d84b0000
+    m_ExpandedIDs: 00000000ce540000d0540000d2540000d4540000d6540000d8540000da540000dc540000de540000e0540000e2540000e4540000e6540000e8540000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1256,8 +1256,8 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
-    m_ExpandedInstanceIDs: c6230000
+    m_HadKeyboardFocusLastEvent: 1
+    m_ExpandedInstanceIDs: c623000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1273,7 +1273,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 10}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
