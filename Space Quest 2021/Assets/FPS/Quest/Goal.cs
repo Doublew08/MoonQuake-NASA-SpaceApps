@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Goal : MonoBehaviour
 {
+    public bool CallRecieved = false;
     private bool istriggered = false;
 
     // Start is called before the first frame update
@@ -26,6 +27,7 @@ public class Goal : MonoBehaviour
                 GameObject.Find("Quest1").GetComponent<Quest>().ObjectiveDone = true;
 
                 istriggered = true;
+                CallRecieved = true;
             }
 
         }
