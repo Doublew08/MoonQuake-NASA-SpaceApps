@@ -1,4 +1,4 @@
-# ðŸŒ• MoonQuake (NASA Space Apps Challenge)
+# MoonQuake (NASA Space Apps Challenge)
 
 <p align="center">
   <b>An interactive 3D visualization of raw NASA lunar seismometer data.</b><br/>
